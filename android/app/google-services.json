@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743040680792",
+    "project_id": "tactify-e6561",
+    "storage_bucket": "tactify-e6561.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743040680792:android:45bed58a7f50e098311b2d",
+        "android_client_info": {
+          "package_name": "com.example.tactify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUKwFcOcXQLC8ZoPSI5Os3VDqfNOkF9ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
